@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kedro-datasets-
 
 Home: https://pypi.org/project/kedro-datasets/
 
-Package license: 
+Package license: Apache-1.1
 
 Summary: Kedro-Datasets is where you can find all of Kedro's data connectors.
 
