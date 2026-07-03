@@ -13,8 +13,8 @@ Development: https://github.com/kedro-org/kedro-plugins/tree/main/kedro-datasets
 
 Documentation: https://docs.kedro.org/
 
-"Kedro-Datasets is where you can find all of Kedro's data connectors."
-"These data connectors are implementations of the AbstractDataset."
+"Kedro-Datasets is where you can find all of Kedro's data connectors.
+These data connectors are implementations of the AbstractDataset."
 
 Current build status
 ====================
