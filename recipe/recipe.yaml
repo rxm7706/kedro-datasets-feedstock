@@ -60,6 +60,7 @@ about:
     These data connectors are implementations of the AbstractDataset."
   repository: https://github.com/kedro-org/kedro-plugins/tree/main/kedro-datasets
   documentation: https://docs.kedro.org
+  license: Apache-1.1
   license_file:
     - LICENSE.md
 
